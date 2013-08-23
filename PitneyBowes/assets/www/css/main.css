@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.logotext{
+	font-size:36px;
+	text-align:center;
+	color: #39C3F2;
+	float: left;
+	height: 150px;
+	width: 50px;
+	padding-top: 5%;
+	margin-top: -10px;
+	
+}
+
+.logoimg {
+	width: 100px;
+	float:left;
+	padding-left: 15%;
+	margin-top: -10px;
+}
+.spacer {
+	width:100%;
+	margin-top: -60px;
+	float: left;
+	text-align: center;
+}
+.bcode {
+	width:100%;
+	text-align:center;
+	}
+	
+.store {
+	background: url("../images/groovepaper.png") repeat;
+	height:550px;
+	}
+	
+	form {
+		color:white;
+	}
